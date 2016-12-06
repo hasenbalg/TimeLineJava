@@ -1,0 +1,15 @@
+.container {
+  display: flex; /* or inline-flex */
+  flex-direction: row;
+}
+
+.event{
+  padding: 1em;
+  margin: 1em;
+  border: 1px solid grey;
+  border-radius: .5em;
+}
+
+.hidden{
+  display: none;
+}
